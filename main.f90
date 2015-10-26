@@ -1,26 +1,5 @@
 PROGRAM SIMOX !****************************************************************
 !
-!*** Author
-! Developed by Byoungseon JEON
-! School of Engineering and Applied Sciences
-! Harvard University
-!
-!*** Purpose
-! Simulation code for classical molecular dynamics
-! particularly for metal alloy oxidation
-! 
-!*** History
-! July 2010
-! Coding started and basic implementation
-! CTIP and EAM by [1]
-! Basic target configuration is from [2]
-! 2D Ewald summation implemented (MD system is planar)
-! end of July 2010
-! Cell sorting implemented
-!
-![1] Zhou et al, PRB v.69, pp.035402, (2004)
-![2] Hasnaoui et al, Suf. Sci. v.579, pp.47-57 (2005)
-!
 !*** Note
 ! The code is using the feature of F95/2003. Some of F90 features may not work.
 ! Required external library
