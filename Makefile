@@ -1,11 +1,5 @@
 #
 # Makefile for SIMOX serial version
-# 
-# Byoungseon Jeon
-# School of Engineering and Applied Sciences
-# Harvard University
-# July 2010
-#
 .SUFFIXES: .o .f90
 #
 F90 =  ifort #gfortran
